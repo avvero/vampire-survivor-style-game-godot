@@ -7,6 +7,7 @@
 radius = 15.0
 
 [node name="Bullet" type="Area2D" unique_id=1476819664]
+top_level = true
 rotation = 0.007454872
 collision_layer = 0
 collision_mask = 3

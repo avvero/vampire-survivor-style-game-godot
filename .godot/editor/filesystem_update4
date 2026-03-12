@@ -1,2 +1,6 @@
 res://player.tscn
 res://player.gd
+res://game.tscn
+res://gun.tscn
+res://game.gd
+res://characters/slime/slime.tscn
